@@ -5,6 +5,8 @@
  <a href="mailto:isacaguair@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:10px"></a>
 </p>
 <br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=isacaguiar&show_icons=true&theme=tokyonight)
 <!--
 https://github-readme-stats.vercel.app/api?username=isacaguiar&theme=dark&show_icons=true
 -->
