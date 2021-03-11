@@ -8,9 +8,12 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacaguiar&hide=TeX&layout=compact)
+
 <hr>
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isacaguiar&hide=TeX&layout=compact&themedark)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=isacaguiar&show_icons=true&theme=tokyonight)
 
 https://github-readme-stats.vercel.app/api?username=isacaguiar&theme=dark&show_icons=true
