@@ -19,8 +19,8 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Oracle](https://img.shields.io/badge/-MySQL-black?logo=oracle&style=social)&nbsp;&nbsp;
-![SqlServer](https://img.shields.io/badge/-MySQL-black?logo=sqlserver&style=social)&nbsp;&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle&style=social)&nbsp;&nbsp;
+![SQLServer](https://img.shields.io/badge/-SQLServer-black?logo=sqlserver&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
