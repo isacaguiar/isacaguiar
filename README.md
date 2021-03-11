@@ -23,6 +23,7 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-black?logo=sqlserver&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=social)&nbsp;&nbsp;
 
 <hr>
 <!--
