@@ -7,7 +7,7 @@
 </p>
 
 <br>
-
+<!--
 **Languages and Tools:** 
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
@@ -24,7 +24,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-black?logo=gitlab&style=social)&nbsp;&nbsp;
-
+-->
+<br>
 <hr>
 <!--
 
