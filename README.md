@@ -1,5 +1,13 @@
 <h2>Hi, I'm Isac Aguiar</h2>
 
+Professional with solid academic background and over 19 years of experience in software development, with emphasis on distributed systems and robust backend solutions. Bachelor's degree in Information Systems, with specializations in Distributed Systems (UFBA) and Mobile Application Development (IFBA).
+
+He has worked in large companies such as Marinha do Brasil, Portugal Telecom, Meta, Invillia and is currently a Software Specialist at Ericsson Inovação S/A. He has extensive knowledge of Java, Spring, software architecture, systems integration and modern DevOps practices.
+
+His career highlights include his work on strategic projects such as the migration of approximately 12 million lines from Oi to Vivo, and the implementation of payment via PIX in one of the largest e-commerces in the country.
+
+Committed to technical excellence, innovation and delivery of value to the customer, he is always seeking continuous evolution and best development practices.
+
 
 <p align="left">
  <a href="https://www.linkedin.com/in/isac-aguiar-0889178" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:10px; "></a>
