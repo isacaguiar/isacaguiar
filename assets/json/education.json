@@ -1,0 +1,27 @@
+[{
+    "curso"  : "Pós-Graduação Lato Sensu em Desenvolvimento de Aplicações e Games para Dispositivos Móveis",
+    "link_curso" : "http://www.prpgi.ifba.edu.br",
+    "instituicao": "IFBA - Instituto Federal da Bahia",
+    "link": "https://portal.ifba.edu.br/",
+    "periodo": "Janeiro 2020 - Julho 2022",
+    "page": "http://www.isacaguiar.com.br/blog/disfagiaapp/"
+ },
+ {
+    "curso"  : "Especialização Avançada em Sistemas Distribuídos",
+    "link_curso" : "http://www.lasid.ufba.br",
+    "instituicao": "UFBA - Universidade Federal da Bahia",
+    "link": "http://www.ufba.br",
+    "periodo": "Janeiro 2008 - Julho 2010",
+    "page": "http://www.isacaguiar.com.br/blog/agmax-ferramenta-para-gerenciamento-de-algoritmos-geneticos-distribuidos-em-ilhas-de-evolucao/"
+ },
+ {
+    "curso"  : "Bacharelado em Sistemas de Informação",
+    "link_curso" : "https://portal.estacio.br/unidades/centro-universit%C3%A1rio-est%C3%A1cio-da-bahia/cursos/gradua%C3%A7%C3%A3o/bacharelado-e-licenciatura/sistemas-de-informa%C3%A7%C3%A3o/",
+    "instituicao": "Centro Universitário Estácio da Bahia",
+    "link": "http://www.estacio.br",
+    "periodo": "Janeiro 2002 - Julho 2007",
+    "page": "http://www.isacaguiar.com.br/blog/max-flow/"
+ }
+]
+
+

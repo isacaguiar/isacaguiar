@@ -1,0 +1,95 @@
+[{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/vivo2.jpg",
+   "projeto" : "Projeto Jeri",
+   "tecnologias": "Java 8, Spring Boot, Oracle, Maven.",
+   "description": "Desenvolvedor back-end",
+   "links": []
+},{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/olx.jpg",
+   "projeto" : "OLX - Payments",
+   "tecnologias": "Java 11, Spring Boot, AWS, Docker, Maven, Node, Terraform, Grafana, New Relic.",
+   "description": "Desenvolvedor back-end",
+   "links": []
+},{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/tacweb.jpg",
+   "projeto" : "Tacweb",
+   "tecnologias": "Java 8, Rest, Hibernate, AngularJS, SQL Server.",
+   "description": "Líder Técnico",
+   "links": []
+},{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/navegueamador.jpg",
+   "projeto" : "Escola Náutica Navegue Amador",
+   "tecnologias": "PHP, HTML5, CSS3, Bootstrap.",
+   "description": "Projeto e desenvolvimento",
+   "links": ["http://www.escolanauticanavegueamador.com.br"]
+},{
+    "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/fiplan.jpg",
+    "projeto" : "FIPLAN",
+    "tecnologias": "Java 8, Spring, Struts, Hibernate, VUE, Ajax, JQuery, JS, HTML, CSS, Ant e Oracle.",
+    "description": "Desenvolvimento full stack",
+    "links": ["http://www.prodeb.gov.br/servicos/FIPLAN.aspx"]
+ },
+ {
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/sgtlex.jpg",
+   "projeto" : "SGTLEX",
+   "tecnologias": "Java, Spring, React, TS, Bootstrap, HTML, CSS e Oracle.",
+   "description": "Desenvolvimento full stack",
+   "links": ["https://lextax.com.br/sgtlex/", "https://novemax.com.br/lex/"]
+},
+{
+  "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/fenix.jpg",
+  "projeto" : "FENIX",
+  "tecnologias": "Java, SOAP, Rest, Maven e XML.",
+  "description": "Projeto e desenvolvimento",
+  "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/apkomp.jpg",
+   "projeto" : "APKomp",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS JQuery.",
+   "description": "Projeto e desenvolvimento",
+   "links": ["http://apkomp.com.br/"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/histocito.jpg",
+   "projeto" : "Histocito",
+   "tecnologias": "PHP, Bootstrap, Jquery e MySQL.",
+   "description": "Projeto e desenvolvimento",
+   "links": ["http://isacaguiar.com.br/histocito", "http://histocito.com.br/"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/delpira.jpg",
+   "projeto" : "Del Pirapora",
+   "tecnologias": "Drupal 8.",
+   "description": "Projeto e desenvolvimento",
+   "links": ["https://www.marinha.mil.br/om/delegacia-fluvial-de-pirapora"]
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/delpira_intranet.jpg",
+   "projeto" : "Intranet Del Pirapora",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS, JQuery e MySQL.",
+   "description": "Projeto e desenvolvimento",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/quadro_presenca.jpg",
+   "projeto" : "Quadro de Presença",
+   "tecnologias": "PHP, Bootstrap, HTML, CSS, JQuery e MySQL.",
+   "description": "Projeto e desenvolvimento",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/vivo.jpg",
+   "projeto" : "Portal Corporativo",
+   "tecnologias": "Java, SOAP, Spring, JSF, Struts, Maven e Oracle.",
+   "description": "Projeto e desenvolvimento",
+   "links": []
+},
+{
+   "imagem"  : "http://isacaguiar.com.br/cv/assets/img/portfolio/sigip.jpg",
+   "projeto" : "SIGIP - Sistema de Informação e Gestão Integrada Policial",
+   "tecnologias": "Java, Struts, Hibernate, Ant e SQLServer.",
+   "description": "Atuação como desenvolvedor Java",
+   "links": ["https://www.delegaciadigital.ssp.ba.gov.br/"]
+}]
+

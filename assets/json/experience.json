@@ -1,0 +1,81 @@
+[{
+   "titulo"  : "Especialista em Desenvolvimento de Sistemas",
+   "empresa" : "EISA",
+   "link": "https://jobs.kenoby.com/eisa",
+   "funcao": "Desenvolvedor Backend",
+   "observacoes": "Java, Spring e Oracle.",
+   "periodo": "Janeiro 2022 - Presente"
+},{
+   "titulo"  : "Desenvolvedor",
+   "empresa" : "Invillia",
+   "link": "https://www.invillia.com",
+   "funcao": "Desenvolvedor Backend",
+   "observacoes": "Java, Spring, AWS, Terraform, Javascript e PostgreSQL.",
+   "periodo": "Abril 2021 - Janeiro 2022"
+},{
+   "titulo"  : "Desenvolvedor Java",
+   "empresa" : "Meta",
+   "link": "https://www.meta.com.br",
+   "funcao": "Lider Técnico.",
+   "observacoes": "Java, Spring, Rest, Hibernate, AngularJS e SQL Server.",
+   "periodo": "Outubro 2020 - Abril 2021"
+}, {
+    "titulo"  : "Analista de Sistemas (Desenvolvedor)",
+    "empresa" : "Acp Group Tecnologia",
+    "link": "http://www.acpgroup.com.br",
+    "funcao": "Desenvolvimento de soluções web.",
+    "observacoes": "Java, Sprint, Struts, Hibernate, Javascript, AJAX, JQuery, HTML, CSS e Oracle.",
+    "periodo": "Janeiro 2020 - Outubro 2020"
+ }, {
+    "titulo"  : "Oficial do Quadro Técnico",
+    "empresa" : "Marinha do Brasil",
+    "link": "http://www.marinha.mil.br",
+    "funcao": "Gestor de Tecnologia da Informação e Comunicações: Responsável pelo gerenciamento dos projetos e operações de serviços de Tecnologia da Informação e Comunicações, elaboração de projetos de implantação, racionalização e redesenho de processos, incluindo desenvolvimento e integração de sistemas, com utilização de alta tecnologia, identificando oportunidades de aplicação de acordo com as necessidades estratégicas.",
+    "observacoes": "Java, Spring, Struts, Hibernate, PHP, HTML, CSS, JavaScript, Oracle e MySQL.",
+    "periodo": "Janeiro 2012 - Janeiro 2020"
+ }, {
+    "titulo"  : "Professor",
+    "empresa" : "FAC FUNAM - FUNDAÇÃO EDUCACIONAL ALTO MÉDIO SÃO FRANCISCO",
+    "link": "http://facfunam.edu.br/",
+    "funcao": "Professor do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.",
+    "observacoes": "Disciplinas: Automação das Organizações; Engenharia de Software I; Engenharia de Software II; Engenharia de Software III; Gerência de Projetos; e Qualidade de Software. Membro do NDE (Núcleo Docente Estruturante).",
+    "periodo": "Novembro 2008 - Janeiro 2012"
+ }, {
+    "titulo"  : "ANALISTA DE TECNOLOGIA DA INF. E COMUNICAÇÃO",
+    "empresa" : "Altice Portugal - Telecominucações SI/TI e Inovação",
+    "link": "https://www.telecom.pt/pt-pt",
+    "funcao": "Compreender e aplicar as disciplinas de engenharia de software e das atividades da organização. Prover arquitetura, projeto, desenvolvimento, manutenção e testes de sistemas, no âmbito da tecnologia da informação e comunicação. Estudo de viabilidade de criação de projetos, no que compete a utilização de recursos necessários à elaboração da aplicação. Identificar as funções que serão entregues ao concluir a aplicação. Orientar analistas, desenvolvedores e estagiários na elaboração de projetos inovadores, nas áreas de TI e comunicações. ",
+    "observacoes": "Java, Spring, Rest, Soap, Hibernate, Struts, HTML, CSS, JavaScript, Ajax, JQuery, Oracle, PLSQL e ETL.",
+    "periodo": "Novembro 2008 - Janeiro 2012"
+ }, {
+    "titulo"  : "PROFESSOR TECNOLÓGICO NÍVEL 1",
+    "empresa" : "INSTITUTO BAIANO DE ENSINO SUPERIOR",
+    "link": "https://uniceusa.edu.br/",
+    "funcao": "Professor do Curso de Análise e Desenvolvimento de Sistemas.",
+    "observacoes": "Disciplina: Projeto e Desenvolvimento de Sistemas.",
+    "periodo": "Janeiro 2011 - Maio 2011"
+ }, {
+    "titulo"  : "Analista de Sistemas",
+    "empresa" : "Stefanini",
+    "link": "https://stefanini.com/pt-br",
+    "funcao": "Análise, projeto, arquitetura, desenvolvimento, manutenção e testes de sistemas.",
+    "observacoes": "Java, Hibernate, Struts, HTML, CSS, JavaScript, Ajax, SQL Server.",
+    "periodo": "Janeiro 2008 - Novembro 2008"
+ }, {
+    "titulo"  : "ANALISTA DESENVOLVEDOR I",
+    "empresa" : "SYSDESIGN CONSULTORIA EM INFORMÁTICA LTDA",
+    "link": "https://sysdesign.com/",
+    "funcao": "Análise, projeto, arquitetura, desenvolvimento, manutenção e testes de sistemas.",
+    "observacoes": "Java EE, JSP/Servlets, JSTL, JSF 2, JPA, Hibernate 3, Struts, ASP, Oracle Forms, Oracle Reports, HTML, CSS, JavaScript, Ajax, Oracle, SQL Server, PostgreSQL.",
+    "periodo": "Dezembro 2004 - Janeiro 2008"
+ }]
+
+ 
+ 
+ 
+
+ 
+
+
+
+ 

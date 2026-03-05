@@ -1,0 +1,41 @@
+[{
+    "curso"  : "Formação Angular 10 - O início criando 7 projetos",
+    "instituicao": "Udemy",
+    "link" : "https://www.udemy.com",
+    "carga_horaria" : "11,5h",
+    "ano": "2020",
+    "icone" : "fa-code"
+ },
+ {
+   "curso"  : "Web Design",
+   "instituicao": "Transnology Ltda",
+   "link": "#",
+   "carga_horaria": "80 horas",
+   "ano": "2004",
+   "icone" : "fa-code"
+ },
+ {
+   "curso"  : "Lógica de Programação com Delphi 5.0",
+   "instituicao": "SENAI - Departamento Regional da Bahia",
+   "link": "http://www.fieb.org.br/senai/",
+   "carga_horaria": "80 horas",
+   "ano": "2002",
+   "icone" : "fa-code"
+ },
+ {
+    "curso"  : "Especial de Qualificação de Docentes",
+    "instituicao": "Marinha do Brasil",
+    "link": "http://www.marinha.mil.br",
+    "carga_horaria": "Carga horária: 170h",
+    "ano": "2019",
+    "icone" : "fa-graduation-cap"
+ },
+ {
+   "curso"  : "Curso Expedito de Certificação de Auditores em SID em Redes Locais de Computador",
+   "instituicao": "Marinha do Brasil",
+   "link": "http://www.marinha.mil.br",
+   "carga_horaria": "70 horas",
+   "ano": "2015",
+   "icone" : "fa-graduation-cap"
+ }
+]
