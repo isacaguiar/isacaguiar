@@ -1,15 +1,32 @@
 <?php
 session_start();
 
-// Verifique se o idioma selecionado é válido
-if (isset($_GET['lang']) && ($_GET['lang'] == 'en' || $_GET['lang'] == 'pt')) {
-    $_SESSION['lang'] = $_GET['lang'];
+// idiomas permitidos
+$allowed = ['pt', 'en'];
+
+// pega ?lang=
+$lang = isset($_GET['lang']) ? strtolower(trim($_GET['lang'])) : 'pt';
+if (!in_array($lang, $allowed, true)) {
+  $lang = 'pt';
 }
 
-// Redirecione de volta para a página anterior
-header('Location: ' . $_SERVER['HTTP_REFERER']);
+// salva na sessão
+$_SESSION['lang'] = $lang;
 
-// Redirecione de volta para a página principal
-//header('Location: index.php');
+/**
+ * volta para a página anterior (referrer) se for do mesmo site,
+ * senão volta para a home
+ */
+$defaultRedirect = '/';
+
+$ref = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '';
+$host = isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : '';
+
+if ($ref && $host && strpos($ref, $host) !== false) {
+  header("Location: $ref", true, 302);
+  exit;
+}
+
+header("Location: $defaultRedirect", true, 302);
+exit;
 ?>
-
